@@ -9,3 +9,5 @@ python 3 code
 - droplet sizes dependent on pixel size, objective, and binning
 - nd2 export scripts added
 - main notebook and config files updated
+20220324 @megantse
+- checking fork
